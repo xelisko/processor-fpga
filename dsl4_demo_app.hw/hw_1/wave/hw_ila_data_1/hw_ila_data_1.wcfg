@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<wave_config>
+	<wave_state>
+	</wave_state>
+	<db_ref_list>
+		<db_ref path="C:/DSL4/dsl4_demo_app/dsl4_demo_app.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1" type="auto">
+			<top_modules>
+				<top_module name="top">
+				</top_module>
+			</top_modules>
+		</db_ref>
+	</db_ref_list>
+	<WVObjectSize size="16">
+	</WVObjectSize>
+	<wvobject fp_name="ROM_ADDRESS_ILA" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">ROM_ADDRESS_ILA</obj_property>
+		<obj_property name="ObjectShortName">ROM_ADDRESS_ILA</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_1" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_1</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_1</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_2" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_2</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_2</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_3" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_3</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_3</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_4" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_4</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_4</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_5" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_5</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_5</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_6" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_6</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_6</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_7" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_7</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_7</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="ROM_DATA_ILA" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">ROM_DATA_ILA</obj_property>
+		<obj_property name="ObjectShortName">ROM_DATA_ILA</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_8" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_8</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_8</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_9" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_9</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_9</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_10" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_10</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_10</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_11" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_11</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_11</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_12" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_12</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_12</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;_13" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;_13</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;_13</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+	<wvobject fp_name="&lt;const0&gt;" type="logic" db_ref_id="1">
+		<obj_property name="ElementShortName">&lt;const0&gt;</obj_property>
+		<obj_property name="ObjectShortName">&lt;const0&gt;</obj_property>
+		<obj_property name="Radix">HEXRADIX</obj_property>
+	</wvobject>
+</wave_config>
+

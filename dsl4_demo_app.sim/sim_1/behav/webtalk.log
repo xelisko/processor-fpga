@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Mon Mar 20 23:38:25 2023
+# Process ID: 32388
+# Log file: C:/DSL4/dsl4_demo_app/dsl4_demo_app.sim/sim_1/behav/webtalk.log
+# Journal file: C:/DSL4/dsl4_demo_app/dsl4_demo_app.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/DSL4/dsl4_demo_app/dsl4_demo_app.sim/sim_1/behav/xsim.dir/LED_TB_behav/webtalk/xsim_webtalk.tcl -notrace
+
+    while executing
+"webtalk_transmit -clientid 1964540487 -regid "212293841_0_0_544" -xml C:/DSL4/dsl4_demo_app/dsl4_demo_app.sim/sim_1/behav/xsim.dir/LED_TB_behav/webtal..."
+    (file "C:/DSL4/dsl4_demo_app/dsl4_demo_app.sim/sim_1/behav/xsim.dir/LED_TB_behav/webtalk/xsim_webtalk.tcl" line 32)
+INFO: [Common 17-206] Exiting Webtalk at Mon Mar 20 23:38:26 2023...

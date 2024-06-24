@@ -1,0 +1,111 @@
+///////////////////   CONSTANTS:  
+
+ 
+
+@0x00 0x06	// mem offset 
+
+@0x01 0x07	// constant 7  
+
+@0x02 0x00	// current # of direction changes 
+
+@0x03 0x01	// constant 1 
+
+@0x04 0x00	// constant 0 
+
+@0x05 0x64	//new interrupt rate - constant 100 
+
+@0x06 0x02      // constant 2 
+
+@0x07 0x35     	// constant 53		-mouse x boundary 1 
+
+@0x08 0x6A	// constant 106		-mouse x boundary 2	 
+
+@0x09 0x28	// constant 40		-mouse y boundary 1 
+
+@0x0A 0x50     	// constant 80		-mouse y boundary 2 
+
+@0x0B 0xA0	// constant 160		-VGA x Maximum 
+
+@0x0C 0x78	// constant 120		-VGA y Maximum 
+
+@0x0D 0xFA	// constant 250		-Time value checker 
+
+@0x0E 0x04	// constant 4 
+
+@0x0F 0x77   // const 119
+ 
+@0x10 0x09  // const 09
+
+@0x11 0x08  // const 8
+
+@0x12 0x0A  // const 10
+
+@0x22 0x35	// constant 53 
+
+@0x23 0x6A	// constant 106 
+
+@0x24 0x28	// constant 40 
+
+@0x25 0x50	// constant 80 
+
+//////////////////////    VARIABLES: 
+
+@0x30  A0 // X_Mouse - coordinate 
+
+@0x31  78  // Y_Mouse - coordinate 
+
+@0x32  	// X_direction (centre 00 , right 10 or left 01 ) in binary 
+
+@0x33  	// Y_direction (centre 00 , down 10 or up 01 ) in binary 
+
+@0x34  	// Direction for IR - 4 bits 
+
+@0x35		// X address - VGA 
+
+@0x36		// Y address - VGA 
+
+@0x37		// Color - VGA 
+
+@0x38		// Timer counter - VGA colour 
+
+@0x39		// X_Mouse_Previous - VGA mouse display 
+
+@0x3A  	// Y_Mouse_Previous - VGA mouse display 
+
+
+
+//////////////////// Peripheral Memory Address 
+
+@0xA0		// Mouse Status 
+
+@0xA1		//X_Mouse Coordinate 
+
+@0xA2		//Y_Mouse Coordinate 
+
+@0xB0		// X_VGA 
+
+@0xB1		// Y_VGA 
+
+@0xB2		// Pixel_DATA_VGA 
+
+@0xB3		// Color_VGA 
+
+@0xC0		//LEDL		-8 left LEDs 
+
+@0xC1		//LEDH		-8 right LEDs 
+
+@0xD0		//7Seg		-left bytes 
+
+@0xD1		//7 Seg 		-right bytes 
+
+@0xF0		//Current Timer Value 
+
+@0xF1		//Timer Interrupt Interval 
+
+@0xF2		//Timer Reset 
+
+@0xF3		//Timer Interrupt Enable 
+
+ 
+
+ 

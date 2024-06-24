@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Sun Mar 19 20:25:03 2023
+# Process ID: 4600
+# Log file: C:/DSL4/dsl4_demo_app/dsl4_demo_app.runs/impl_1/TOP.vdi
+# Journal file: C:/DSL4/dsl4_demo_app/dsl4_demo_app.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source TOP.tcl -notrace
+
+*** Halting run - EA reset detected ***
+
+
+
+    while executing
+"start_step write_bitstream"
+    (file "TOP.tcl" line 48)
+INFO: [Common 17-206] Exiting Vivado at Sun Mar 19 20:25:07 2023...
